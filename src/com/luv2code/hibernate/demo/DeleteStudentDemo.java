@@ -41,11 +41,6 @@ public class DeleteStudentDemo {
 			
 			// commit transaction	
 			session.getTransaction().commit();
-								
-	
-			
-			
-
 			
 			System.out.println("Done!");
 		}
