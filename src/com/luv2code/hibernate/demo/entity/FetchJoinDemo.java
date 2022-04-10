@@ -51,7 +51,7 @@ public class FetchJoinDemo {
 			
 			System.out.println("\nluv2code: The sessis now closed!\n");
 			
-			// option 1: call getter method while session is open
+
 			
 			// since courses are lazy loaded ... this should fail
 			// get course for the instructor
